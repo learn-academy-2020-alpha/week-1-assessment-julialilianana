@@ -111,7 +111,8 @@ const noVowel2 = (string) => {
     }
      
   }
-
+console.log(noVowel2(notAString1))
+console.log(noVowel2(notAString2))
 
 
 
